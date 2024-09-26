@@ -197,7 +197,7 @@
 
 @media screen and (max-width: 900px) {
    .about-pic{
-      margin-left: 0rem
+      margin-left: -2rem
    }
    .experience-details-container {
       display: block;
@@ -223,7 +223,7 @@
    #others {
       margin-bottom:100px;
    }
-   .nav-links-container {
+   footer {
       margin-left: -1.5rem;
    }
 }

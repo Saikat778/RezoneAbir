@@ -101,9 +101,6 @@
       height: 370px;
    }
 
-   #acheivements {
-      height: 3000vh;
-   }
 }
 
 @media screen and (max-width: 600px) {
@@ -185,9 +182,6 @@
       height: 300px;
    }
 
-   #acheivements {
-      height: 2000vh;
-   }
 }
 
 @media screen and (max-width: 900px) {
@@ -205,6 +199,7 @@
    }
 
    .details-acheivements img {
+      display: block;
       width: 100%;
       height: 300px;
    }

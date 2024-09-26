@@ -100,6 +100,10 @@
       width: 100%;
       height: 370px;
    }
+
+   #acheivements {
+      height: 800px;
+   }
 }
 
 @media screen and (max-width: 600px) {
@@ -180,6 +184,10 @@
       width: 80%;
       height: 300px;
    }
+
+   #acheivements {
+      height: 1500px;
+   }
 }
 
 @media screen and (max-width: 900px) {
@@ -200,4 +208,5 @@
       width: 100%;
       height: 300px;
    }
+
 }

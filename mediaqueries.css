@@ -189,9 +189,16 @@
       width: 80%;
       height: 300px;
    }
+
+   .about-pic{
+      margin-left: 0rem
+   }
 }
 
 @media screen and (max-width: 900px) {
+   .about-pic{
+      margin-left: 0rem
+   }
    .experience-details-container {
       display: block;
    }
@@ -210,9 +217,13 @@
       width: 100%;
       height: 300px;
    }
-
+   #profile {
+      margin-bottom:150px;
+   }
    #others {
       margin-bottom:100px;
    }
-
+   .nav-links-container {
+      margin-left: -1.5rem;
+   }
 }

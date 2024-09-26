@@ -189,10 +189,6 @@
       width: 80%;
       height: 300px;
    }
-   
-   .about-pic {
-      margin-left: 5rem;
-   }
 }
 
 @media screen and (max-width: 900px) {
@@ -217,9 +213,6 @@
 
    #others {
       margin-bottom:100px;
-   }
-   .nav-links-container {
-      margin-left: -15rem;
    }
 
 }

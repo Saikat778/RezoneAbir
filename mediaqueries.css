@@ -190,7 +190,7 @@
       height: 300px;
    }
    .about-pic{
-      margin-left:5px;
+      margin-left:1px;
    }
 }
 
@@ -224,6 +224,6 @@
       margin-left:10px;
    }
    .nav-links-container{
-      margin-left:-5px;
+      margin-left:-15px;
    }
 }

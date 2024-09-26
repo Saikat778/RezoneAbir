@@ -218,4 +218,7 @@
    #others {
       margin-bottom:100px;
    }
+   .nav-links-container {
+      margin-left: -2rem;
+   }
 }

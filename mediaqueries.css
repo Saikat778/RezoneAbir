@@ -191,13 +191,13 @@
    }
 
    .about-pic{
-      margin-left: -100px;
+      margin-left: -50px;
    }
 }
 
 @media screen and (max-width: 900px) {
    .about-pic{
-      margin-left: -100px;
+      margin-left: -50px;
    }
    .experience-details-container {
       display: block;
@@ -224,6 +224,6 @@
       margin-bottom:100px;
    }
    footer {
-      margin-left: -100px;
+      margin-left: -20px;
    }
 }

@@ -101,6 +101,10 @@
       height: 370px;
    }
 
+   .main_profile {
+      margin-left: 0rem;
+   }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -181,7 +185,10 @@
       width: 80%;
       height: 300px;
    }
-
+   
+   .about-pic {
+      margin-left: 0rem;
+   }
 }
 
 @media screen and (max-width: 900px) {

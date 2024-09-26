@@ -191,7 +191,7 @@
    }
    
    .about-pic {
-      margin-left: 0rem;
+      margin-left: -2rem;
    }
 }
 
@@ -219,6 +219,9 @@
       margin-bottom:100px;
    }
    .nav-links-container {
-      margin-left: -2rem;
+      margin-left: -1.5rem;
+   }
+   .about-pic {
+      margin-left: 2rem;
    }
 }
